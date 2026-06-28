@@ -206,3 +206,12 @@ item.style.transition="0.8s";
 window.addEventListener("scroll",revealAnimation);
 
 revealAnimation();
+nav ul li a.active{
+color:#38bdf8;
+font-weight:bold;
+}
+
+body.dark{
+background:#000;
+color:#fff;
+}
